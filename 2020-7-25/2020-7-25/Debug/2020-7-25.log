@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/7/25 19:19:36。
+     1>项目“E:\vs code\2020-7-25\2020-7-25\2020-7-25.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS 13\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "he bing .c"
+         he bing .c
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(4): error C2143: 语法错误 : 缺少“{”(在“for”的前面)
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(4): error C2059: 语法错误:“for”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(19): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(21): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(24): error C2037: “val”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(26): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(27): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(34): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(39): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(40): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(44): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>e:\vs code\2020-7-25\2020-7-25\he bing .c(46): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+     1>已完成生成项目“E:\vs code\2020-7-25\2020-7-25\2020-7-25.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.02

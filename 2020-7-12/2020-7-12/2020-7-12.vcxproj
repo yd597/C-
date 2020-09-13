@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0A3FBDA3-0ED2-4CDD-94A3-16E455242374}</ProjectGuid>
-    <RootNamespace>My2020725</RootNamespace>
+    <ProjectGuid>{7BA078FB-95A3-4F42-A31A-A9C2768E348D}</ProjectGuid>
+    <RootNamespace>My2020712</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="he bing .c" />
+    <ClCompile Include="offset.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
